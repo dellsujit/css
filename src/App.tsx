@@ -26,7 +26,7 @@ function App() {
     </g>
 </svg>
       </label>
-      <label className="logo">X</label>
+      <label className="logo">DevX</label>
       <ul>
         <li><a className="active" href="#">Home</a></li>
         <li><a href="#">About</a></li>
