@@ -9,8 +9,8 @@ function App() {
   
       <input type="checkbox" id="check"/>
       <label htmlFor="check" className="checkbtn">
-
-<svg width="20px" height="20px" viewBox="0 -1 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+Click Me
+{/* <svg width="20px" height="20px" viewBox="0 -1 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     
     <title>align-left</title>
     <desc>Created with Sketch Beta.</desc>
@@ -24,7 +24,7 @@ function App() {
 </path>
         </g>
     </g>
-</svg>
+</svg> */}
       </label>
       <label className="logo">DevX</label>
       <ul>
